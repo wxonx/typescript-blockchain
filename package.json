@@ -1,0 +1,8 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wxonx/typescript-blockchain.git",
+  "author": "JungWwon <kimjw7020@gmail.com>",
+  "license": "MIT"
+}
